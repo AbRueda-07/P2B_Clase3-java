@@ -1,5 +1,6 @@
                                       # P2B_Clase3-java
 ARANZA BRIGITTE RUEDA ALVARADO 
+
 Arlin Guisel Castillo Cermeño  
 1. Base de Datos y Persistencia
 Mejora #1 
